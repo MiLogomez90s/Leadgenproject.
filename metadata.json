@@ -1,0 +1,12 @@
+{
+  "name": "Remix: LeadPulse AI",
+  "description": "Advanced lead generation platform with AI scoring, Google Maps niche scanning, and GHL integration.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "Lead Management",
+    "AI Scoring",
+    "Local Business Search"
+  ]
+}
